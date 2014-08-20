@@ -10,11 +10,14 @@
 	font-weight: bolder;
 }
 
+#FotoLogo{
+	position: absolute;
+	height:10%;
+}
+
 #MenuSuperior{
 	width: 100%;
 	color: #000;
 	position: absolute;
-	top: 20%;
+	top: 25%;
 }
-
-
