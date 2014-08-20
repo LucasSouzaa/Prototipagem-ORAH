@@ -1,0 +1,20 @@
+#Corpo{
+	height: 100%;
+	width: 100%;
+}
+
+#LoginSenha{
+	position: absolute;
+	left: 70%;
+	height: 10%;
+	font-weight: bolder;
+}
+
+#MenuSuperior{
+	width: 100%;
+	color: #000;
+	position: absolute;
+	top: 20%;
+}
+
+
